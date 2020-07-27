@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styleheader.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
@@ -54,8 +55,8 @@
                         <div class="col-xl-6 col-md-6">
                             <div class="short_contact_list">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-envelope"></i> info@docmed.com</a></li>
-                                    <li><a href="#"> <i class="fa fa-phone"></i> 160160</a></li>
+                                    <li><a href="#"> <i class="fa fa-envelope"></i>jeevitvindia@gmail.com</a></li>
+                                    <li><a href="#"> <i class="fa fa-phone"></i>1000000000</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,7 +69,7 @@
                         <div class="col-xl-3 col-lg-2">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="img/logo.png" alt="">
+                                    <img  src="img/logo.png" alt="logo">
                                 </a>
                             </div>
                         </div>
@@ -99,7 +100,7 @@
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="Appointment">
                                 <div class="book_btn d-none d-lg-block">
-                                    <a class="popup-with-form" href="#test-form">Make an Appointment</a>
+                                    <a class="popup-with-form" href="#test-form">Login</a>
                                 </div>
                             </div>
                         </div>

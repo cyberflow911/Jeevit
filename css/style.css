@@ -25,7 +25,13 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-
+/*log.png file of header.php file conversion
+.card{
+  width: 50%;
+  height: 100px;
+  padding:2rem;
+}
+/****************/
 /* line 12, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/theme-default.scss */
 .img {
   max-width: 100%;
