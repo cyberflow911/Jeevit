@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^login$ index.php
+RewriteRule ^([^\.]+)$ $1.php
+ErrorDocument 404 /404.php
