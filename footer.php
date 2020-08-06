@@ -98,47 +98,27 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </footer>
 <!-- footer end  -->
     <!-- link that opens popup -->
-
+<link href="footerlogin.css" rel="stylesheet">
     <!-- form itself end-->
     <form id="test-form" class="white-popup-block mfp-hide">
         <div class="popup_box ">
             <div class="popup_inner">
-                <h3>Make an Appointment</h3>
+                <h3>Login</h3>
                 <form action="#">
                     <div class="row">
                         <div class="col-xl-6">
-                            <input id="datepicker" placeholder="Pick date">
+                            <input type="text" placeholder="Email" autocomplete="on" required>
                         </div>
                         <div class="col-xl-6">
-                            <input id="datepicker2" placeholder="Suitable time">
+                            <input type="password" placeholder="Password" required>
                         </div>
-                        <div class="col-xl-6">
-                            <select class="form-select wide" id="default-select" class="">
-                                <option data-display="Select Department">Department</option>
-                                <option value="1">2</option>
-                                <option value="2">3</option>
-                                <option value="3">4</option>
-                            </select>
+                        
+                        <div class="col-xl-8">
+                            <button type="submit" class="boxed-btn3">LogIn</button>
                         </div>
-                        <div class="col-xl-6">
-                            <select class="form-select wide" id="default-select" class="">
-                                <option data-display="Doctors">Doctors</option>
-                                <option value="1">2</option>
-                                <option value="2">3</option>
-                                <option value="3">4</option>
-                            </select>
-                        </div>
-                        <div class="col-xl-6">
-                            <input type="text"  placeholder="Name">
-                        </div>
-                        <div class="col-xl-6">
-                            <input type="text"  placeholder="Phone no.">
-                        </div>
-                        <div class="col-xl-12">
-                            <input type="email"  placeholder="Email">
-                        </div>
-                        <div class="col-xl-12">
-                            <button type="submit" class="boxed-btn3">Confirm</button>
+                        <div class="col-xl-2">
+                            <h4>Don't have account?</h4>
+                            <button type="submit" class="boxed-btn3">Signup</button>
                         </div>
                     </div>
                 </form>

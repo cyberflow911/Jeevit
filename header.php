@@ -100,7 +100,7 @@
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="Appointment">
                                 <div class="book_btn d-none d-lg-block">
-                                    <a class="popup-with-form" href="#test-form">Login</a>
+                                    <a href="loginf.html">Login</a>
                                 </div>
                             </div>
                         </div>
