@@ -29,13 +29,13 @@ require_once 'header.php';
           
             <ul class="navbar-nav pr-4 ">
             <li class="nav-item">
-                <img src="images%20(1).png" style="height: 40px;margin-left: 5px;">
+                <img src="images/images%20(1).png" style="height: 40px;margin-left: 5px;">
                 </li>
              <li class="nav-item">
-                <img src="download%20(2).png" style="height: 40px;margin-left: 5px;background-color: black;">
+                <img src="images/download%20(2).png" style="height: 40px;margin-left: 5px;background-color: black;">
                 </li>
              <li class="nav-item">
-                <img src="images%20(2).png" style="height: 40px;margin-left: 5px;background-color: black;">
+                <img src="images/images%20(2).png" style="height: 40px;margin-left: 5px;background-color: black;">
                 </li>
             
             </ul>
