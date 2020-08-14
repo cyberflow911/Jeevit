@@ -1,0 +1,112 @@
+
+ @import url('https://fonts.googleapis.com/css?family=Asap|Bangers|Bree+Serif|Caveat|Cinzel|Eater|Lato|Lobster|Ma+Shan+Zheng|Marck+Script|Monoton|Pacifico|Press+Start+2P|Righteous|Roboto|Sriracha|Tangerine|Ubuntu|Unica+One&display=swap');
+
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Lato';
+}
+
+.navbar-brand{
+    font-family: 'Pacifico';
+    font-size: 20px;
+    color:crimson!important;
+}
+
+.nav-link{
+    font-size: 16px;
+    margin: 15px;
+    color: black !important;
+    font-family: 'Roboto Condensed';
+}
+.nav-link:hover{
+    color:#00E8E8 !important;
+}
+.active .nav-link{
+    color: #00E8E8 !important;
+}
+.menu-right-btn{
+    padding: 13px 46px;
+    margin-right: 4%;
+    background-color: transparent;
+    transition: all 300ms ease-in;
+}
+.menu-right-btn:hover{
+    color: white;
+    background-color: #00E8E8;
+
+}
+
+.site-content{
+    background-image: url('stock/24.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.site-title, .site-desc{
+    color: black;
+    
+}
+.site-title{
+    margin-top: 30%;
+    margin-bottom: 6%;
+    font-size: 50px;
+    font-family: 'Righteous';
+}
+.site-desc{
+    font-size: 14px;
+    padding-left: 15%;
+    
+}
+
+
+/*************section1******************/
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+/*************section1******************/
+
+.section-4{
+    margin-top: 8%;
+}
+.section-4 .row .col-md-7, .col-md-5{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+/*.section-4 a{
+    color: lightseagreen;
+    font-size: 48px;
+    text-decoration: none;
+}
+.section-4 .para-1{
+    color: white;
+    font-family: 'Roboto Condensed';
+    margin-top: 7%;
+    font-size: 23px;
+}*/
+/*footer*/
+.copyright-menu{
+   align-content: right;
+}
+.social{
+    color: #EF5651;
+    font-size: 20px;
+}
+@media screen and (max-width:768px){
+    .section-1 .card{
+        width: 14rem;
+    }
+
+    .section-4 .col-md-7 img{
+        width: 350px;
+    }
+
+}
+
